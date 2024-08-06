@@ -1,0 +1,15 @@
+C026-01-0723/2023 Lenson Mutugi
+
+
+ls: This command is used to list the contents of a directory.
+pwd: This command prints the current working directory.
+cd: This command allows you to change directories.
+mkdir: This command creates new directories.
+rmdir: This command removes empty directories.
+rm: This command removes files or directories (use with caution!).
+touch: This command creates empty files.
+cp: This command copies files and directories.
+mv: This command moves and renames files and directories
+cat: This command displays the content of a file.
+chmod: This command changes the permissions of a file or directory
+sudo: This command allows you to execute a command with superuser privileges
