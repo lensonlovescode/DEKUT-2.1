@@ -1,3 +1,9 @@
+/**
+ * Name: Lenson Mutugi
+ * REG NO: C026-01-0723/2023
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 
